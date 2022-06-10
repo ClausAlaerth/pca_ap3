@@ -1,3 +1,2 @@
-# pca_ap3
-Projeto Curricular Articular, AP3, Grupo 11.
-Análise e Desenvolvimento de Sistemas, Unigranrio.
+# PCA - AP3 - GRUPO 11
+Projeto Curricular Articular, Unigranrio.
